@@ -50,7 +50,7 @@ closemenu.addEventListener('click',()=>{
 
 // -------------------- Send contact form to google sheets -------------------------
 
-const scriptURL = 'https://script.google.com/macros/s/AKfycbzIk5QjnFnLfTvYj7vwBnpk2coTr9t8lIx_vY1kt7V93OQxSZ7VeAoTMntBwIyKHfmuzg/exec'
+const scriptURL = 'https://script.google.com/macros/s/AKfycbx1jWVVVTYYluHoru5nW_F7ad53Qec12pFq42BgeiZW0eNBKfIKVaOO3JIZhm-Hz7TgjQ/exec'
 const form = document.forms['submit-to-google-sheet']
 const msg = document.getElementById("msg")
 
