@@ -1,7 +1,7 @@
 // ---------------- typing effect -----------------
 
 let typed = new Typed(".auto-text",{
-    strings: ["App Developer", "UI/UX Designer", "Freelancer"],
+    strings: ["App Developer", "Freelancer"],
     typeSpeed:70,
     backSpeed:70,
     loop: true
